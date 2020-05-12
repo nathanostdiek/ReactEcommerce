@@ -1,0 +1,57 @@
+.seller {
+    color: #A1A1A1;
+    font-size: 14px;
+}
+
+.price {
+    font-weight: bold;
+    color: green;
+}
+.bid {
+    color: lightgreen;
+    font-weight: bold;
+
+}
+.price-bought {
+    font-weight: bold;
+    color: red;
+}
+
+.description {
+    max-height: 100px;
+    overflow: scroll;
+}
+
+.item:hover {
+    border-style: solid;
+    border-radius: 5px;
+    border-color:  #A1A1A1;
+    border-width: 1px;
+}
+
+.feed-image{
+    max-height: 100px;
+}
+
+.sold-item {
+    opacity: 0.7;
+}
+
+.form-image {
+    max-width:100px;
+}
+
+.image-choice {
+    max-width: 400px;
+}
+
+.form-image:hover {
+    border-style: solid;
+    border-radius:1px;
+    border-color:  #A1A1A1;
+}
+.selected {
+    border-style: solid;
+    border-radius:1px;
+    border-color:  #A1A1A1;
+}

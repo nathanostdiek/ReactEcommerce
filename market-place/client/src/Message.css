@@ -1,0 +1,12 @@
+.message-from, .message-timestamp {
+    font-size: 12px;
+    color: #C0C0C0;
+}
+
+.message-content {
+    font-size:16px;
+}
+
+.ME {
+    background-color: rgba(198, 224, 243, 0.5);
+}

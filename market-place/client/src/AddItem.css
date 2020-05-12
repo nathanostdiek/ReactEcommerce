@@ -1,0 +1,14 @@
+#addform{
+    margin-top: 10px;
+    width: 80%;
+    border: 4px solid whitesmoke;
+    border-radius: 8px;
+}
+
+.row {
+    margin-top: 15px;
+}
+
+.p-1{
+    text-align: center;
+}
